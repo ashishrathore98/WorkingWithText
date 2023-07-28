@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe.config
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.pdb
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.exe
+D:\SimpliLearn Course\Assisted Project\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.pdb
